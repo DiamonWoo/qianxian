@@ -1,13 +1,12 @@
-老生常谈 >> [有关部门](.)🕘
-
 中国千县地名库
 ==============
 大萌 2021-2022
 
+	202406  从Laosheng.top衍生为独立项目，修正链接
 	202204  第二稿 中国千县地名库
 	202105  第一稿 千县地名数据库
 
-　　在老生常谈的[云媒体](../fly)、[有关部门](../fuwu)页面均涉及全国各地城市名称，我需要一份严谨准确的全国地名库。2021年，民政部网站发布了2020年的行政区划数据，这也是国家统计局的区域划分的标准。于是我据此制作了一份SQLite格式的《中国千县地名库》，可以查询全国县级地名，以及对应的行政区划代码。  
+　　在老生常谈的[云媒体](https://Laosheng.top/fly)、[有关部门](https://Laosheng.top/fuwu)页面均涉及全国各地城市名称，我需要一份严谨准确的全国地名库。2021年，民政部网站发布了2020年的行政区划数据，这也是国家统计局的区域划分的标准。于是我据此制作了一份SQLite格式的《中国千县地名库》，可以查询全国县级地名，以及对应的行政区划代码。  
 　　2022年，本站的托管站Github升级了网页js技术，支持在网页中直接呈现数据表格。于是大萌从《地名库》中导出了.tsv数据，实现了在网页上直接检索、过滤地名。
 
 数据格式
@@ -92,9 +91,9 @@
 	<a title="在新窗口浏览数据，支持数据过滤" target="_blank" 
 	href="https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming地市图.tsv">在线浏览</a>
 
-+	行政区划〖县级地级省级图〗：[下载](diming县级地级省级图.tsv)、
++	<del>行政区划〖县级地级省级图〗：[下载](diming县级地级省级图.tsv)、
 	<a title="在新窗口浏览数据，支持数据过滤" target="_blank" 
-	href="https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming县级地级省级图.tsv">在线浏览</a>
+	href="https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming县级地级省级图.tsv">在线浏览</a></del>
 
 　　【在线浏览】支持筛选功能，比如，浏览<省级图>时，当在上方搜索栏中键入‘北’，下方表格会显示数据各列中包含‘北’字的行。如图。  
 	![](tsv2github.png)
@@ -115,11 +114,5 @@
 	GPL 3.0	可复制-可修改-相同方式授权
 	千县地名数据库		v0.9.9
 ```
-回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
-https://Laosheng.top  
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
-<script>  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
-</script>
+
+回到首页<a href="https://Laosheng.top" title="返回老生常谈首页">Laosheng.top</a>  
