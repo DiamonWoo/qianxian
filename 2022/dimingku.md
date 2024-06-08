@@ -85,11 +85,11 @@
 
 +	行政区划〖省级图〗：[下载](diming省级图.tsv)、
 	<a title="在新窗口浏览数据，支持数据过滤" target="_blank" 
-	href="https://github.com/DiamonWoo/qianxian/blob/master/fuwu/diming省级图.tsv">在线浏览</a>
+	href="https://github.com/DiamonWoo/qianxian/blob/master/2022/diming省级图.tsv">在线浏览</a>
 
 +	行政区划〖地市图〗：[下载](diming地市图.tsv)、
 	<a title="在新窗口浏览数据，支持数据过滤" target="_blank" 
-	href="https://github.com/DiamonWoo/qianxian/blob/master/fuwu/diming地市图.tsv">在线浏览</a>
+	href="https://github.com/DiamonWoo/qianxian/blob/master/2022/diming地市图.tsv">在线浏览</a>
 
 +	<del>行政区划〖县级地级省级图〗：[下载](diming县级地级省级图.tsv)、
 	<a title="在新窗口浏览数据，支持数据过滤" target="_blank" 
