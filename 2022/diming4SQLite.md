@@ -4,6 +4,7 @@
 =================
 大萌 202204
 
+	202406  从Laosheng.top衍生为独立项目，修正链接
 	202204  第二稿 从地名库学习SQLite
 	202105  第一稿 千县地名数据库
 
@@ -16,13 +17,13 @@
 
 民政部网站公开数据：  
 2020年中华人民共和国县以上行政区划代码（截止2020年12月31日）  
-<http://www.mca.gov.cn/article/sj/xzqh/2020/20201201.html>  
+<del><http://www.mca.gov.cn/article/sj/xzqh/2020/20201201.html></del>  
 可以查询全国所有县/区的名称，不包含台港澳地区的地市区县信息。
 
 *在这个网页上，2020年三沙市(460300)新成立的西沙区和南沙区的区划代码仍是空白，大萌根据惯例暂定了两个区的代码：460321与460322，以保证区划代码能成为数据表的主键列。*
 
 2021年中华人民共和国县以上行政区划代码变更情况  
-http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html
+<del>http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html</del>
 
 
 
@@ -43,7 +44,7 @@ http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html
 使用方法
 ---------
 
-*	下载：[千县地名数据库_老生常谈版.sqlite](千县地名数据库_老生常谈版.sqlite)  
+*	下载：[中国千县地名库_GPL3.sqlite](中国千县地名库_GPL3.sqlite)  
 该数据库文件体积只有 96 KB。
 
 　　在DBB中(只读)打开这个数据库后，可以看到数据库结构中有**表**和**视图**两大类，表是存储数据的地方，而视图是表的一种只读呈现。也就是说，不管你对视图怎么操作，都不会损坏数据。所以，放心操练吧！
@@ -132,11 +133,4 @@ SQL语句示例：
 	GPL 3.0	可复制-可修改-原授权
 	20210524	v0.9.3	大萌编制
 ```
-回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
-https://Laosheng.top  
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
-<script>  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
-</script>
+回到首页<a href="https://Laosheng.top" title="返回老生常谈首页">Laosheng.top</a>  
