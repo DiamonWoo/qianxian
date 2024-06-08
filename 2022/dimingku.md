@@ -85,18 +85,18 @@
 
 +	行政区划〖省级图〗：[下载](diming省级图.tsv)、
 	<a title="在新窗口浏览数据，支持数据过滤" target="_blank" 
-	href="https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming省级图.tsv">在线浏览</a>
+	href="https://github.com/DiamonWoo/qianxian/blob/master/fuwu/diming省级图.tsv">在线浏览</a>
 
 +	行政区划〖地市图〗：[下载](diming地市图.tsv)、
 	<a title="在新窗口浏览数据，支持数据过滤" target="_blank" 
-	href="https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming地市图.tsv">在线浏览</a>
+	href="https://github.com/DiamonWoo/qianxian/blob/master/fuwu/diming地市图.tsv">在线浏览</a>
 
 +	<del>行政区划〖县级地级省级图〗：[下载](diming县级地级省级图.tsv)、
 	<a title="在新窗口浏览数据，支持数据过滤" target="_blank" 
 	href="https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming县级地级省级图.tsv">在线浏览</a></del>
 
 　　【在线浏览】支持筛选功能，比如，浏览<省级图>时，当在上方搜索栏中键入‘北’，下方表格会显示数据各列中包含‘北’字的行。如图。  
-	![](tsv2github.png)
+	![](./tsv2github.png)
 
 
 延申阅读
